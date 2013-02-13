@@ -1,3 +1,34 @@
-=== NoSQL Database
+# NoSQL Database
 
 In a world full of imiators, Go with the King.
+
+A true NoSQL database. Key/Value store at its best.
+
+To start:
+
+    node NoSQL.js
+    
+In use:
+
+    NoSQL> menu
+    NoSQL <=> Console
+
+      STORE  -  Store a key/value pair
+
+	    GET - Retrieve a value by key
+
+
+    NoSQL> STORE a 2
+    STORED: (a, 2)
+    NoSQL> STORE customerid 293
+    STORED: (customerid, 293)
+    NoSQL> GET a
+    2
+    NoSQL> GET customerid
+    293
+    NoSQL> SELECT * FROM Employees
+    NO!
+    NoSQL> ALTER TABLE distributors ADD CONSTRAINT dist_id_zipcode_key UNIQUE (dist_id, zipcode);
+    NO!
+    NoSQL> DROP TABLE customers;
+    NO!
