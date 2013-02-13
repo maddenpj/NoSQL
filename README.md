@@ -1,6 +1,6 @@
 # NoSQL Database
 
-In a world full of imiators, choose what's canonical.
+In a world full of imitators, be genuine.
 
 The true NoSQL database.
 
