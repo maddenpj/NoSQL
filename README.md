@@ -1,8 +1,8 @@
 # NoSQL Database
 
-In a world full of imiators, Go with the King.
+In a world full of imiators, choose what's canonical.
 
-A true NoSQL database. Key/Value store at its best.
+The true NoSQL database.
 
 
     
