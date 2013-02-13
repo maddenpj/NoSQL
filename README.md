@@ -4,6 +4,14 @@ In a world full of imiators, Go with the King.
 
 A true NoSQL database. Key/Value store at its best.
 
+
+    
+To install:
+
+    git clone https://github.com/maddenpj/NoSQL.git
+    npm install control-port
+
+
 To start:
 
     node NoSQL.js
@@ -15,7 +23,7 @@ In use:
 
       STORE  -  Store a key/value pair
 
-	    GET - Retrieve a value by key
+      GET - Retrieve a value by key
 
 
     NoSQL> STORE a 2
