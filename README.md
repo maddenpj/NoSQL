@@ -16,8 +16,9 @@ To start:
 
     node NoSQL.js
     
-In use:
+To use:
 
+    $ nc localhost 6000
     NoSQL> menu
     NoSQL <=> Console
 
